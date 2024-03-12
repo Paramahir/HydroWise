@@ -1,17 +1,3 @@
-# HydroWise
-
-HydroWise is a Green Hydrogen Calculator application built with Python and Tkinter. It helps users estimate the amount of green hydrogen required for a specific task based on the energy input and predicted efficiency.
-
-## Features
-
-- **Calculate Green Hydrogen**: Input the energy required for a task, and HydroGenius calculates the amount of green hydrogen needed.
-- **Predict Efficiency**: HydroGenius predicts the efficiency of hydrogen production based on the energy input.
-- **Save Calculations**: Users can save their calculations along with timestamps to a local SQLite database.
-- **User-friendly Interface**: The application features an intuitive user interface for easy interaction.
-
-## Installation
-
-1. Clone the repository:
 
 # HydroWise
 HydroWise-Green Hydrogen Estimator
