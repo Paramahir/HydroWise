@@ -1,6 +1,6 @@
-# HydroGenius
+# HydroWise
 
-HydroGenius is a Green Hydrogen Calculator application built with Python and Tkinter. It helps users estimate the amount of green hydrogen required for a specific task based on the energy input and predicted efficiency.
+HydroWise is a Green Hydrogen Calculator application built with Python and Tkinter. It helps users estimate the amount of green hydrogen required for a specific task based on the energy input and predicted efficiency.
 
 ## Features
 
@@ -15,13 +15,6 @@ HydroGenius is a Green Hydrogen Calculator application built with Python and Tki
 
 # HydroWise
 HydroWise-Green Hydrogen Estimator
-
-
-Certainly! Here's the README.md file in markdown format:
-
-markdown
-Copy code
-# HydroGenius
 
 HydroGenius is a Green Hydrogen Calculator application built with Python and Tkinter. It helps users estimate the amount of green hydrogen required for a specific task based on the energy input and predicted efficiency.
 
